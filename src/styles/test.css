@@ -1,0 +1,19 @@
+body {
+  font-size: 20px;
+}
+
+button {
+  min-height: 3em;
+  margin: 10px;
+  border: solid 1px #333;
+  border-radius: 5%;
+}
+
+.container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: aliceblue;
+  padding: 10px;
+  margin-bottom: 20px;
+}
