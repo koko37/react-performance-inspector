@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-performance-inspector/static/css/main.db6664bb.chunk.css",
+    "main.js": "/react-performance-inspector/static/js/main.1e5b18b8.chunk.js",
+    "main.js.map": "/react-performance-inspector/static/js/main.1e5b18b8.chunk.js.map",
+    "runtime-main.js": "/react-performance-inspector/static/js/runtime-main.208f7ce7.js",
+    "runtime-main.js.map": "/react-performance-inspector/static/js/runtime-main.208f7ce7.js.map",
+    "static/js/2.719ac505.chunk.js": "/react-performance-inspector/static/js/2.719ac505.chunk.js",
+    "static/js/2.719ac505.chunk.js.map": "/react-performance-inspector/static/js/2.719ac505.chunk.js.map",
+    "index.html": "/react-performance-inspector/index.html",
+    "precache-manifest.c93ea37605c69c289916876e0ada0848.js": "/react-performance-inspector/precache-manifest.c93ea37605c69c289916876e0ada0848.js",
+    "service-worker.js": "/react-performance-inspector/service-worker.js",
+    "static/css/main.db6664bb.chunk.css.map": "/react-performance-inspector/static/css/main.db6664bb.chunk.css.map",
+    "static/js/2.719ac505.chunk.js.LICENSE.txt": "/react-performance-inspector/static/js/2.719ac505.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.208f7ce7.js",
+    "static/js/2.719ac505.chunk.js",
+    "static/css/main.db6664bb.chunk.css",
+    "static/js/main.1e5b18b8.chunk.js"
+  ]
+}
